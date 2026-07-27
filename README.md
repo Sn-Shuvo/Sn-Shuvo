@@ -1,0 +1,70 @@
+&lt;h1 align="center"&gt;Hi there, I'm Shuvo! &lt;img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"&gt;&lt;/h1&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Student+Developer;Java+%7C+C+%7C+Svelte;Always+Learning+New+Things" alt="Typing SVG" /&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=Sn-Shuvo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /&gt;
+&lt;/p&gt;
+
+---
+
+### 🚀 About Me
+
+- 🎓 Computer Science student, currently learning and building
+- 💻 Working with **Java**, **C**
+- 🌱 Exploring full-stack development and open source
+- 🐱 Cat lover and late-night coder
+- 📫 Reach me: *[sha607671@gmail.com]*
+
+---
+
+### 🛠️ Tech Stack
+
+&lt;p align="left"&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/&gt;
+&lt;/p&gt;
+
+---
+
+### 📊 GitHub Stats
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=Sn-Shuvo&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" /&gt;
+  &lt;br/&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=Sn-Shuvo&theme=tokyonight&hide_border=true" alt="streak" /&gt;
+  &lt;br/&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn-Shuvo&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" /&gt;
+&lt;/p&gt;
+
+---
+
+### 📌 Pinned Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**nanban**](https://github.com/Sn-Shuvo/nanban) | Team collaboration tool | Svelte |
+| [**Enrollium**](https://github.com/Sn-Shuvo/Enrollium) | Course enrollment system | Java |
+| [**1st-trisem-ics**](https://github.com/Sn-Shuvo/1st-trisem-ics) | ICS coursework & practice | C |
+
+---
+
+### 🏆 GitHub Trophies
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-profile-trophy.vercel.app/?username=Sn-Shuvo&theme=tokyonight&no-frame=true&row=1" alt="trophies" /&gt;
+&lt;/p&gt;
+
+---
+
+&lt;p align="center"&gt;
+  &lt;img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"&gt; 
+  &lt;em&gt;&lt;b&gt;I love connecting with different people&lt;/b&gt; so if you want to say &lt;b&gt;hi, I'll be happy to meet you!&lt;/b&gt; 😊&lt;/em&gt;
+&lt;/p&gt;
